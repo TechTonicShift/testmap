@@ -8,6 +8,7 @@ const App = () => {
     <div>
       <h1>Live Location Map</h1>
       <Map/>
+      
     </div>
   );
 };
